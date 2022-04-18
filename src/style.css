@@ -1,0 +1,46 @@
+#app {
+	font-family: 'Nunito', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+  font-size: 16px;
+}
+
+#app h1 {
+	font-family: 'Nunito', sans-serif;
+}
+
+#app h1 {
+	font-family: 'Nunito-ExtraBold';
+}
+
+#app h2, #app h3, #app h4, #app h5,#app h6{
+	font-family: 'Nunito-SemiBold'
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url(./assets/fonts/Nunito/Nunito-Light.ttf)
+}
+@font-face {
+  font-family: 'Nunito-italic';
+  src: url(./assets/fonts/Nunito/Nunito-LightItalic.ttf)
+}
+@font-face {
+  font-family: 'Nunito-SemiBold';
+  src: url(./assets/fonts/Nunito/Nunito-SemiBold.ttf)
+}
+@font-face {
+  font-family: 'Nunito-SemiBoldItalic';
+  src: url(./assets/fonts/Nunito/Nunito-SemiBoldItalic.ttf)
+}
+@font-face {
+  font-family: 'Nunito-ExtraBold';
+  src: url(./assets/fonts/Nunito/Nunito-ExtraBold.ttf)
+}
+@font-face {
+  font-family: 'Nunito-ExtraBoldItalic';
+  src: url(./assets/fonts/Nunito/Nunito-ExtraBoldItalic.ttf)
+}
